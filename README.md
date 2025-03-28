@@ -20,7 +20,7 @@ I'm a passionate developer, tech enthusiast, and creative mind who loves buildin
 ## 🌟 Featured Projects
 - [MyLinks](https://github.com/abhaychoudhary0211/mylinks) - A beautiful portfolio links page
 - [Portfolio](https://github.com/abhaychoudhary0211/portfolio) - My  Portfolio
-- [Birthday Special](https://github.com/abhaychoudhary0211/BIRTHDAY_WISHES) - Surprise with birthday wishes to your favourite person
+- [Birthday Special](https://github.com/abhaychoudhary0211/BIRTHDAY_WISHES) - Surprise with special birthday wishes to your favourite person
 
 ## 📫 Connect With Me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/official_abhay_ghasal)
