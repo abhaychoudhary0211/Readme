@@ -13,6 +13,9 @@ I'm a passionate developer, tech enthusiast, and creative mind who loves buildin
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-FF6B6B?style=flat-square&logo=iot&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 
 ## 🎯 Current Focus
 - Building responsive web applications
